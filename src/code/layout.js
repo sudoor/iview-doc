@@ -323,7 +323,6 @@ code.topSiderFooter = `
             <Footer class="layout-footer-center">2011-2016 &copy; TalkingData</Footer>
         </Layout>
     </div>
-</div>
 </template>
 <script>
     export default {
